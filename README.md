@@ -36,5 +36,3 @@ source("R/04_beta_diversity.R")
 source("R/05_taxonomic_composition.R")
 ```
 
-## Author
-Shubhada Khare — MSc Bioinformatics
