@@ -7,8 +7,8 @@ A complete R-based metagenomics pipeline covering ASV inference, diversity analy
 - **Loue River Biofilm** — 454 pyrosequencing, 2 sites × 3 months × 3 replicates
 
 ## Experiments
-| Script | Experiment | Description |
-|--------|-----------|-------------|
+| Script |Description |
+|--------|-------------|
 | 01_dada2_pipeline.R | ASV inference, chimera removal, SILVA taxonomy |
 | 02_data_exploration.R | Phyloseq object, sparsity, rarefaction curves |
 | 03_alpha_diversity.R |Richness, Chao1, Shannon, ANOVA, Kruskal-Wallis |
