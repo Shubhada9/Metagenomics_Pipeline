@@ -1,5 +1,5 @@
 # ============================================================
-# Experiment 4.4 — Beta Diversity Analysis
+# Beta Diversity Analysis
 # Bray-Curtis dissimilarity, PCoA, PERMANOVA
 # ============================================================
 
