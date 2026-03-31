@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+data/*.fastq
+data/*.fastq.gz
+data/*.fa.gz
+data/MiSeq_SOP/
+results/*.rds
+.DS_Store
+Thumbs.db
