@@ -1,5 +1,5 @@
 # ============================================================
-# Experiment 4.2 — Data Exploration & Quality Assessment
+# Data Exploration & Quality Assessment
 # Loue River Epilithic Biofilm 16S rRNA data
 # ============================================================
 
