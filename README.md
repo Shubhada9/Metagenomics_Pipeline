@@ -9,11 +9,11 @@ A complete R-based metagenomics pipeline covering ASV inference, diversity analy
 ## Experiments
 | Script | Experiment | Description |
 |--------|-----------|-------------|
-| 01_dada2_pipeline.R | Exp 4.1 | ASV inference, chimera removal, SILVA taxonomy |
-| 02_data_exploration.R | Exp 4.2 | Phyloseq object, sparsity, rarefaction curves |
-| 03_alpha_diversity.R | Exp 4.3 | Richness, Chao1, Shannon, ANOVA, Kruskal-Wallis |
-| 04_beta_diversity.R | Exp 4.4 | Bray-Curtis, PCoA, PERMANOVA |
-| 05_taxonomic_composition.R | Exp 4.5 | Phylum pie chart + stacked bar plot |
+| 01_dada2_pipeline.R | ASV inference, chimera removal, SILVA taxonomy |
+| 02_data_exploration.R | Phyloseq object, sparsity, rarefaction curves |
+| 03_alpha_diversity.R |Richness, Chao1, Shannon, ANOVA, Kruskal-Wallis |
+| 04_beta_diversity.R |Bray-Curtis, PCoA, PERMANOVA |
+| 05_taxonomic_composition.R |Phylum pie chart + stacked bar plot |
 
 ## Key Results
 - 232 ASVs generated, ~96% reads retained (DADA2)
