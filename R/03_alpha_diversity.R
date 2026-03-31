@@ -1,5 +1,5 @@
 # ============================================================
-# Experiment 4.3 — Alpha Diversity Analysis
+# Alpha Diversity Analysis
 # Indices: Richness, Chao1, Evenness, Shannon
 # Stats: ANOVA, Tukey HSD, Kruskal-Wallis, Dunn's test
 # ============================================================
