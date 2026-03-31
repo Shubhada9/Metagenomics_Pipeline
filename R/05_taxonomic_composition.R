@@ -1,5 +1,5 @@
 # ============================================================
-# Experiment 4.5 — Taxonomic Community Composition
+# Taxonomic Community Composition
 # Global pie chart + per-treatment stacked bar plot
 # ============================================================
 
