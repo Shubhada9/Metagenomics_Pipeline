@@ -1,5 +1,5 @@
 # ============================================================
-# Experiment 4.1 — DADA2 Pipeline
+# DADA2 Pipeline
 # High-resolution ASV inference from Illumina MiSeq 16S rRNA
 # ============================================================
 
